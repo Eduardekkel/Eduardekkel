@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eduardekkel
-- 👀 I like to play Volleyball, doing fitness and design things
-- 🌱 I’m currently learning Web Development
-- 📫 eduardekkel.98@gmail.com
+<h1> Hi, I'm Eduard </h1>
+
+ I’m currently learning Web Development.
+
